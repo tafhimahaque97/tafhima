@@ -20,5 +20,8 @@
 
 ### 📊 GitHub Stats:
 <p>
+  <img src="### 📊 GitHub Stats:
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=tafhimahaque97&show_icons=true&theme=radical" alt="github stats" />
+</p>" />
 </p>
